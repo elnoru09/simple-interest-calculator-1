@@ -6,7 +6,7 @@
 
 # Author: Riva Octatama Putra
 # Additional Authors:
-# [Username GitHub Kamu]
+# elnoru09
 
 # Input:
 # p, principal amount
